@@ -1,0 +1,157 @@
+[
+  {
+        "name": "Dwight Schrute",
+        "picture": "dwightschrute",
+        "quotes": [
+            "There’s too many people on this earth. We need a new plague.",
+            "Nothing stresses me out. Except having to seek the approval of my inferiors.",
+            "All you need is love? False. The four basic human necessities are air, water, food, and shelter.",
+            "It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.",
+            "Failure of any kind is failure.",
+            "Listen up kid! I don't like you. But because some town in Switzerland says so, you have rights."
+        ],
+        "image": "ambition"
+    },
+    {
+        "name": "Sergeant Schultz",
+        "picture": "SgtSchultz",
+        "quotes": ["I see nothing, I hear nothing, and I say NOTHING!!!",
+            "Who won the war?",
+            "Interrupting a general's nap could cost a promotion.",
+            "Enemy? Me, an enemy? I'm just as loyal a German soldier as any prisoner in this room.",
+            "I hear nothing",
+            "I shall be alert and intelligent."
+        ],
+        "image": "calm"
+        
+    },
+    {
+        "name": "Corporal Maxwell Klinger",
+        "picture": "CplKlinger",
+        "quotes": ["If my dog had your face, I'd shave his butt and teach him to walk backwards!",
+            "If I had all the answers, I'd run for God.",
+            "I am Zoltan, King of the Gypsies!",
+            "In the words of my people, may your life be an oasis surrounded by waving palms, warm breezes, and spit-free camels.",
+            "I am going to live through this even if it kills me.",
+            "This is what happens to you when you don't eat your vegetables."
+
+        ],
+        "image": "focus"
+        
+    },
+    {
+        "name": "Rodney Dangerfield",
+        "picture": "rodneydangerfield",
+        "quotes": ["I told my dentist my teeth are going yellow. he told me to wear a brown tie.",
+            "When I was born I was so ugly the doctor slapped my mother.",
+            "I haven't spoken to my wife in years. I didn't want to interrupt her.",
+            "I drink too much. The last time I gave a urine sample it had an olive in it.",
+            "When I was a kid my parents moved a lot, but I always found them.",
+            "My wife met me at the door the other night in a sexy negligee. Unfortunately, she was just coming home."
+        ],
+        "image": "reflect"
+    },
+    {
+        "name": "Don Rickles",
+        "picture": "donrickles",
+        "quotes": ["Who picks your clothes - Stevie Wonder?",
+            "I refuse to join any club that would have me as a member.",
+            "I was nice to the people in the Philippines for the two and a half years I was there, because I knew eventually I'd have to kiss up to them so my grandchildren could have toys.",
+            "Italians are fantastic people, really. They can work you over in an alley while singing an opera.",
+            "My wife is great. She always goes to the bank to see if the check has cleared."
+        ],
+        "image": "reflect2"
+    },
+    {
+        "name": "Gilligan",
+        "picture": "gilligan",
+        "quotes": ["I wish you would stop calling me little buddy; I’m in my 40s for, crying out loud.",
+            "Sticks and stones may break my bones... but please, don't throw sticks or stones. Please, please, don't throw sticks or stones.",
+            "I wouldn’t be a good vampire. I faint at the sight of blood. I’ll starve to death!"
+        ],
+        "image": "ambition"
+    },
+    {
+        "name": "Herman Munster",
+        "picture": "HermanMunster",
+        "quotes": ["Grandpa, you blew it again! The spell wore off. I told you not to buy those magic potions in Tijuana.",
+            "Eddie, your mother is right. We don't want any child of ours going to school and being stared at.",
+            "That's no way for a self respecting Republican to act!"
+        ],
+        "image": "calm"
+    },
+    {
+        "name": "Barney Fife",
+        "picture": "don-knotts",
+        "quotes": ["If there's anything that upsets me, it's having people say I am sensitive.",
+            "I could go up to the pickle factory. They always need a Brine Tester.",
+            "Why do you want to irritate your corn?",
+            "You beat everything, you know that.",
+            "You got a fight on your hands.",
+            "Sure you can end up hungover and in jail. But sometimes it's worth it.",
+            "Well I guess to sum it up, you could say there are three reasons why there's so little crime in Mayberry. There's Andy and there's me and [patting gun] baby makes three.",
+            "Sniffing out crime, one step at a time.",
+            "That poor blind fool. He don't know it but he is headed right for a heartbreak alley.",
+            "I stand before you a humble man all choked up with humbleness and humility.",
+            "What's the matter, haven't you ever seen a man take off his dress before?"
+        ],
+        "image": "focus"
+    },
+    {
+        "name": "Gomer Pyle",
+        "picture": "GomerPyle",
+        "quotes": ["Shazam.",
+            "Shame, shame, shame!",
+            "Surprise, surprise, surprise!",
+            "Well sir, you see the big feller needed a lesson, the little feller didn't"
+        ],
+        "image": "reflect"
+    },
+    {
+        "name": "Archie Bunker",
+        "picture": "ArchieBunker",
+        "quotes": ["Somebody's Gotta Be Dead, That's Life",
+            "Gonna Take All Of My Thinking And All Of My Consecration",
+            "Entertainment’s A Thing Of The Past, Now We Got Television",
+            "Everyone I Like Stays The Hell Away From Me",
+            "God Can Do Anything! He Can Turn Your Jawbone Into An Ass!",
+            "We're Just Sweeping Dirty Dishes Under the Rug",
+            "Don't Draw Me No Diaphragms",
+            "The Lord Might Be Smilin' On The Sheeps, But They Still Wind Up As Lambchops",
+            "Patience Is A Virgin",
+            "Poifect English",
+            "Your Own Privates",
+            "We Better Not, Ya know, Kill Our Chickens Before They Cross The Road",
+            "If It’s Too Hot in the Kitchen, Stay Away from the Cook",
+            "Mrs. O’Leary’s Cow is Sorry, but Cleveland Burned Anyway",
+            "Meathead, Dead from the Neck Up"
+        ],
+        "image": "reflect2"
+    },
+    {
+        "name": "Fred Sanford",
+        "picture": "FredSanford",
+        "quotes": ["Telling Esther there’s no God is like telling Jimmy Carter there’s no more toothpaste.",
+            "I’m 65. People say I look 55. I feel 45. I’d settle for 35 and you make me feel 25.",
+            "OK boy, let’s play another game.  There’s one card for you, two for me, three for you, four for me.  OK, count your cards.  How many do you got?",
+            "Speaking of facing up to this mess, who messed up this face.",
+            "If God wanted you to eat Puerto Rican Food, he would have lined your stomach with Pepto Bismol.",
+            "If you see the handwriting on the wall, you’re in the toilet.",
+            "The have nots? Well if the ‘have nots’ could get something from the haves and the haves gave the have nots half of what they have, then the haves would still be the haves but the have nots would be the have somethings.",
+            "I've never had pains like this before! Oh, this is the worse one I've ever had, son! Oh, it's the worst one! This is the big one! I'm dying! You hear that, Elizabeth! I'm coming to join you, honey!",
+            "You just dumb, son. You just dumb."
+        ],
+        "image": "ambition"
+    },
+    {
+        "name": "Granny Clampett",
+        "picture": "Granny",
+        "quotes": ["Politicians are a rich man's tool.",
+            "He couldn't pour sand out of his shoe if the instructions were rit on the heel.",
+            "Well, if there's one thing Jethro'd like better than fightin' it, it'd be eatin' it!",
+            "Hot smoke and sassafras, Jethro, can't you do anything right?"
+
+        ],
+        "image": "calm"
+    }
+]
